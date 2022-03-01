@@ -6,7 +6,7 @@ import ClassWrapper from './components/ClassWrapper';
 function App() {
   return (
     <div className="App">
-     {/* <GameWrapper/> */}
+     <GameWrapper/>
      <ClassWrapper/>
     </div>
   );
